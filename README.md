@@ -26,7 +26,7 @@ jokes_app/
 ├── util/
 │   └── staticServer.js        # Serves static files
 │
-├── screenshots/               # Optional: UI screenshots
+├── screenshots/               # UI screenshots
 │
 └── server.js                  # Main Node.js HTTP server
 ```
